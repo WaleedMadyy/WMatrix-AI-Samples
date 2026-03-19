@@ -56,7 +56,7 @@ Each folder contains:
 ## Contact
 
 - **Website:** [wmatrix.org](https://wmatrix.org)
-- **Email:** support@wmatrix.org
+- **Email:** walid@wmatrix.org
 - **Owner:** WaleedMadyy
 
 ---
